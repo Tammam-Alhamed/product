@@ -62,9 +62,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## insall
 
-1- **download the project
-2- **make database
-3- **rename .env.exampel to (.env)
-4- **php artisan migrate
-5- **php artisan db:seed
-6- **php artisan serve
+1- **download the project**
+2- **make database**
+3- **rename .env.exampel to (.env)**
+4- **php artisan migrate**
+5- **php artisan db:seed**
+6- **php artisan serve**
